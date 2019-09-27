@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What is Pacified Apathy?
-subtitle:
+subtitle: Test
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Leadership] [Growth] [Accountability]
+tags: [Leadership, Growth, Accountability]
 comments: true
 ---
 
