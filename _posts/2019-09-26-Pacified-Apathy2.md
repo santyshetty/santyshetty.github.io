@@ -22,13 +22,6 @@ And, what would AA be without an accountabilabuddy. Every member is assigned som
 ![](https://media.giphy.com/media/SrgzeJQVnBYyI/source.gif){: .center-block :}
 
 
-
-
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-
-
 ## Boxes
 You can add notification, warning and error boxes like this:
 
