@@ -19,7 +19,7 @@ I am proposing a self-help group called Apathetics Anonymous. That’s right- AA
 
 And, what would AA be without an accountabilabuddy. Every member is assigned someone to keep them accountable to their goals. Say you’ve noticed the same problem for the past year or two. Great! Now this person will make sure that it’s documented and you are working towards actually doing something about it. It’s about breaking the victim cycle. It’s about getting excited about your work again. It’s about action.
 
-![](https://media.giphy.com/media/SrgzeJQVnBYyI/source.gif)
+![](https://media.giphy.com/media/SrgzeJQVnBYyI/source.gif){: .center-block :}
 
 
 
