@@ -119,12 +119,6 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "zachtankersley"
 
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-shortname: zachtankersley
-
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
