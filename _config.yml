@@ -67,10 +67,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "zach.tankersley92@gmail.com"
+  facebook: 
+  github: 
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -97,7 +97,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "('config', 'UA-156902732-1')"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-156902732-1"
