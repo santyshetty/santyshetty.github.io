@@ -4,6 +4,7 @@ title: What is Pacified Apathy?
 gh-repo: daattali/beautiful-jekyll
 tags: [Leadership, Growth, Accountability]
 bigimg: img/grafitti.JPG
+image: img/zach1
 comments: true
 ---
 
