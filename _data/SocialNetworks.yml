@@ -37,9 +37,9 @@ linkedin:
   icon: "fa-linkedin"
 
 xing:
-  name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
-  icon: "fa-xing"
+  name: "BuyMeCoffeed"
+  baseURL: "https://www.buymeacoffee.com//"
+  icon: "fa-coffee"
 
 stackoverflow:
   name: "StackOverflow"
