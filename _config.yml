@@ -22,7 +22,7 @@ description:
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Things I live by: "http://https://www.principles.com/"
+    - Things I live by: "http://www.principles.com/"
   Author's home: http://zachtankersley.com
 
 # Image to show in the navigation bar - image must be a square (width = height)
