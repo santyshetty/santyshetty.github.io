@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Influence without Authority
 #gh-repo: 
 tags: [Influence, Authority]
