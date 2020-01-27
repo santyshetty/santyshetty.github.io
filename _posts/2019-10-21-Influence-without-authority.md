@@ -4,7 +4,7 @@ title: Influence without Authority
 #gh-repo: 
 tags: [Influence, Authority]
 image: img/meeting.jpg
-bigimg: img/foggyroad.jpg
+bigimg: img/mountains.jpg
 comments: true
 ---
 
