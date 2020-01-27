@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Influence without Authority
-#gh-repo: daattali/beautiful-jekyll
+#gh-repo: 
 tags: [Influence, Authority]
 image: img/meeting.jpg
-bigimg: img/sugarloaf.JPG
+bigimg: img/foggyroad.jpg
 comments: true
 ---
 
